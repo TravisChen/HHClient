@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../HHServer/Assets/Scripts/HHGameLoop.cs">
+    <Files>
+      <File FileName="Assets/HHNetwork.cs" Line="7" Column="17" />
+      <File FileName="../HHServer/Assets/Scripts/HHGameLoop.cs" Line="19" Column="14" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

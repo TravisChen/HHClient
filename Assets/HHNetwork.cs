@@ -5,7 +5,7 @@ public class HHNetwork : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-		Network.Connect("192.168.1.192",25000);
+		Network.Connect("192.168.2.7",25000);
 	}
 	
 	// Update is called once per frame
